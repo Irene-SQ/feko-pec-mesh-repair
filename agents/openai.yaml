@@ -1,0 +1,4 @@
+interface:
+  display_name: "FEKO PEC Mesh Repair"
+  short_description: "Audit OBJ meshes and prepare verified PEC geometry"
+  default_prompt: "Use $feko-pec-mesh-repair to audit, conservatively repair and validate this OBJ/STL for CADFEKO, and report unresolved geometry and EM checks."
